@@ -1,5 +1,5 @@
 # Wokshop-Git
 Aprendendo Git no Workshop de Git relaizado pelo grupo Katie <br />
-Nome : Ialy C Sousa
-Curso: Engenharia de Computação - IFPB
-Cidade: Campina Grande - PB
+Nome: Ialy C Sousa <br />
+Curso: Engenharia de Computação - IFPB <br />
+Cidade: Campina Grande - PB <br />
